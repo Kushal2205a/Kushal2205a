@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Images/Untitled design(6).png" alt="Kushal Panchali" width="150" height="150" style="border-radius:50%;object-fit:cover;">
-</p>
-
 <h1 align="center">Kushal Panchali</h1>
 
 <p align="center">
