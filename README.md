@@ -1,8 +1,8 @@
 <h1 align="center">Kushal Panchali</h1>
 
-<p align="center">
+<h3 align="center">
   <strong>Full-Stack Developer</strong> | AI/ML
-</p>
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kushalpanchali" target="_blank">
