@@ -1,7 +1,8 @@
+
 <h1 align="center">Kushal Panchali</h1>
 
 <h3 align="center">
-  <strong>Full-Stack Developer</strong> | AI/ML
+  <strong>AI Engineer</strong> | AI Infrastructure
 </h3>
 
 <p align="center">
@@ -19,32 +20,26 @@
 ## About Me
 
 Hi, I'm Kushal Panchali.  
-I'm in my final year of graduation, and I am a full‑stack developer with a focus on AI/ML applications.
+I build AI systems focused on multi-agent workflows, runtime reliability, AI infrastructure, and secure agentic systems.
 
 
 
 ## Tech Stack
 
-| Languages | Frameworks/Libraries | Databases | Tools |
+| Languages | AI / ML | Backend & Infrastructure | Tools |
 |-----------|:--------------------:|-----------|-------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-2E86C1?style=flat-square&logo=ai&logoColor=white) ![LLM API](https://img.shields.io/badge/LLM_API-4B8BBE?style=flat-square&logo=cloud&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-2E86C1?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square) ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FF6F61?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 
 
 ## Featured Projects
 
-- **[Compliance-Assistant-React-Typescript-Django-LLM](https://github.com/Kushal2205a/Compliance-Assistant-React-Typescript-Django-Mistral)**  
-  Advanced compliance web app with React, Django, and integrated LLM APIs for automated document review and insights.
+- **[Multi-Agent Workflow Failure Detection](https://github.com/Kushal2205a/multi-agent-workflow-failure-detection)**  
+  Runtime monitoring and loop detection system for autonomous LLM workflows using lightweight heuristics, reducing token consumption by 78%.
 
-- **[LITE_Compliance-QnA-Assistant-Streamlit-FAISS](https://github.com/Kushal2205a/LITE_Compliance-QnA-Assistant-Streamlit-FAISS)**  
-  Lightweight assistant that extracts and indexes PDFs with FAISS, enabling semantic Q&A over compliance data.
+- **[Database Security Layer for AI Agents](https://github.com/Kushal2205a/database-security-layer-for-ai-agents)**  
+  PostgreSQL wire-protocol interception layer that quarantines destructive SQL queries before execution using behavioral analysis and adaptive safeguards.
 
-
-
-## Certifications
-
-- [Introduction to Deep Learning & Neural Networks with Keras](https://coursera.org/share/ebc0fbdf3e33b36f79f223222d09148b)
-- [Operating Systems Fundamentals](https://coursera.org/share/95dbcf3cfa726a538b8debf1b0d2601a)
-- [Databases and SQL for Data Science with Python](https://coursera.org/share/e59acb801c62c5ef092e9e0d379b9683)
+- **[Brain Tumor Detection Hybrid DL+ML Comparative Study](https://github.com/Kushal2205a/brain-tumor-detection-hybrid-dl-ml)**  
+  Comparative study evaluating hybrid deep learning and machine learning architectures for MRI-based brain tumor detection with improved interpretability and strong clinical performance.
 
 ---
-
