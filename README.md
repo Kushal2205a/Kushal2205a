@@ -2,7 +2,7 @@
 <h1 align="center">Kushal Panchali</h1>
 
 <h3 align="center">
-  <strong>AI Engineer</strong> | AI Infrastructure
+  <strong>AI Engineer</strong> 
 </h3>
 
 <p align="center">
