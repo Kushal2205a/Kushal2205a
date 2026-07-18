@@ -39,7 +39,6 @@ I build AI systems focused on multi-agent workflows, runtime reliability, AI inf
 - **[Database Security Layer for AI Agents](https://github.com/Kushal2205a/database-security-layer-for-ai-agents)**  
   PostgreSQL wire-protocol interception layer that quarantines destructive SQL queries before execution using behavioral analysis and adaptive safeguards.
 
-- **[Brain Tumor Detection Hybrid DL+ML Comparative Study](https://github.com/Kushal2205a/brain-tumor-detection-hybrid-dl-ml)**  
-  Comparative study evaluating hybrid deep learning and machine learning architectures for MRI-based brain tumor detection with improved interpretability and strong clinical performance.
+
 
 ---
