@@ -34,7 +34,7 @@ I build AI systems focused on multi-agent workflows, runtime reliability, AI inf
 ## Featured Projects
 
 - **[Multi-Agent Workflow Failure Detection](https://github.com/Kushal2205a/multi-agent-workflow-failure-detection)**  
-  Runtime monitoring and loop detection system for autonomous LLM workflows using lightweight heuristics, reducing token consumption by 78%.
+  Runtime monitoring and loop detection system for autonomous LLM workflows using lightweight heuristics and helps agents recover through heuristic based prompt injection. 
 
 - **[Database Security Layer for AI Agents](https://github.com/Kushal2205a/database-security-layer-for-ai-agents)**  
   PostgreSQL wire-protocol interception layer that quarantines destructive SQL queries before execution using behavioral analysis and adaptive safeguards.
