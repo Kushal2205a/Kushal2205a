@@ -33,12 +33,14 @@ I build AI systems focused on multi-agent workflows, runtime reliability, AI inf
 
 ## Featured Projects
 
+- **[Kliae](https://github.com/Kushal2205a/Kliae)**  
+  Open source Graph based knowledge workspace built with Tauri and React that enables visual knowledge management through interconnected nodes, layered graphs, rich content editing, and offline-first local storage.
+
 - **[Multi-Agent Workflow Failure Detection](https://github.com/Kushal2205a/multi-agent-workflow-failure-detection)**  
-  Runtime monitoring and loop detection system for autonomous LLM workflows using lightweight heuristics and helps agents recover through heuristic based prompt injection. 
+  Runtime monitoring and loop detection system for autonomous LLM workflows using lightweight heuristics and helps agents recover through heuristic based prompt injection.
 
 - **[Database Security Layer for AI Agents](https://github.com/Kushal2205a/database-security-layer-for-ai-agents)**  
   PostgreSQL wire-protocol interception layer that quarantines destructive SQL queries before execution using behavioral analysis and adaptive safeguards.
 
-
-
 ---
+
