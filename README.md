@@ -33,6 +33,9 @@ I build AI systems focused on multi-agent workflows, runtime reliability, AI inf
 
 ## Featured Projects
 
+- **[miea-mem](https://github.com/Kushal2205a/miea-mem)**  
+  Graph based memory system for AI agents that stores memories as noun-verb-noun triples in plain JSON files, using a waterslide traversal approach to retrieve relevant context without a vector database.
+  
 - **[Kliae](https://github.com/Kushal2205a/Kliae)**  
   Open source Graph based knowledge workspace built with Tauri and React that enables visual knowledge management through interconnected nodes, layered graphs, rich content editing, and offline-first local storage.
 
