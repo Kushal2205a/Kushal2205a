@@ -1,5 +1,5 @@
 <p>
-  <img src="./Images/profile-header.svg" alt="Kushal Panchali, AI engineer. Memory, tools, and the systems around agents. Diagram: mi∃a follows a stored relationship from Postgres to WAL to retrieve context." width="100%">
+  <img src="./Images/profile-header.gif" alt="Kushal Panchali, AI engineer. An animated maze shows an agent heading toward a goal, finding a blocked path, taking a detour, and arriving." width="100%">
 </p>
 
 [Website](https://kushalpanchali.in) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/kushalpanchali) &nbsp; / &nbsp; [Email](mailto:kushalpanchali0522@gmail.com)

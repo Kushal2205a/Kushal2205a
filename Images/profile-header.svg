@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Kushal Panchali, AI engineer</title>
-  <desc id="desc">A mi∃a memory retrieval example. A question about Postgres persistence leads to the Postgres node, follows its persists_with relationship to WAL, and returns that stored fact as context.</desc>
+  <desc id="desc">An agent navigates a maze, encounters a wall, takes a detour, and reaches its goal.</desc>
   <defs>
     <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
       <path d="M1 1L7 4L1 7" stroke="#D6A17D" stroke-width="1.2"/>
@@ -22,24 +22,5 @@
   <text x="49" y="203" fill="#C1C4BB" font-family="Arial, sans-serif" font-size="23">Memory, tools, and the</text>
   <text x="49" y="235" fill="#C1C4BB" font-family="Arial, sans-serif" font-size="23">systems around agents.</text>
   <text x="49" y="311" fill="#929E90" font-family="monospace" font-size="12" letter-spacing="2">VISAKHAPATNAM, INDIA</text>
-  <text x="742" y="53" fill="#D6A17D" font-family="monospace" font-size="13" letter-spacing="2">mi∃a / MEMORY RETRIEVAL</text>
-  <rect x="742" y="78" width="406" height="52" rx="6" fill="#222721" stroke="#465041"/>
-  <text x="758" y="99" fill="#929E90" font-family="monospace" font-size="11" letter-spacing="1">QUERY</text>
-  <text x="758" y="119" fill="#EEECE4" font-family="Arial, sans-serif" font-size="16">How does Postgres persist data?</text>
-  <g stroke="#D6A17D" stroke-width="1.5" marker-end="url(#arrow)">
-    <path d="M801 130V180"/>
-    <path d="M860 204H1040"/>
-    <path d="M1094 228V264"/>
-  </g>
-  <text x="814" y="160" fill="#929E90" font-family="monospace" font-size="12">find entry</text>
-  <rect x="742" y="180" width="118" height="48" rx="6" fill="#292B24" stroke="#D6A17D"/>
-  <rect x="1040" y="180" width="108" height="48" rx="6" fill="#292B24" stroke="#D6A17D"/>
-  <g fill="#EEECE4" font-family="monospace" font-size="16" text-anchor="middle">
-    <text x="801" y="210">Postgres</text>
-    <text x="1094" y="210">WAL</text>
-  </g>
-  <text x="950" y="191" fill="#D6A17D" font-family="monospace" font-size="12" text-anchor="middle">persists_with</text>
-  <rect x="742" y="266" width="406" height="59" rx="6" fill="#222721" stroke="#465041"/>
-  <text x="758" y="287" fill="#929E90" font-family="monospace" font-size="11" letter-spacing="1">RETRIEVED CONTEXT</text>
-  <text x="758" y="310" fill="#EEECE4" font-family="Arial, sans-serif" font-size="16">Postgres persists with write-ahead logging.</text>
+<text x="742" y="53" fill="#D6A17D" font-family="monospace" font-size="13" letter-spacing="2">PLAN / TEST / ADAPT</text><rect x="764" y="86" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="812" y="86" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="860" y="86" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="908" y="86" width="44" height="44" rx="4" fill="#4B5146" stroke="#6B7462"/><path d="M919 119l22 -22" stroke="#7A826F" opacity=".6"/><rect x="956" y="86" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1004" y="86" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1052" y="86" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="764" y="134" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="812" y="134" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="860" y="134" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="908" y="134" width="44" height="44" rx="4" fill="#4B5146" stroke="#6B7462"/><path d="M919 167l22 -22" stroke="#7A826F" opacity=".6"/><rect x="956" y="134" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1004" y="134" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1052" y="134" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="764" y="182" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="812" y="182" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="860" y="182" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="908" y="182" width="44" height="44" rx="4" fill="#4B5146" stroke="#6B7462"/><path d="M919 215l22 -22" stroke="#7A826F" opacity=".6"/><rect x="956" y="182" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1004" y="182" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1052" y="182" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="764" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="812" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="860" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="908" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="956" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1004" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1052" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><polyline points="786,204 834,204 882,204 882,252 930,252 978,252 978,204 1026,204 1074,204 1074,156 1074,108" fill="none" stroke="#D6A17D" stroke-width="3" stroke-linejoin="round"/><path d="M1066 98v22m0 -22h15l-4 6 4 6h-15" stroke="#ADC69A" stroke-width="2"/><circle cx="1074" cy="108" r="14" fill="#191C1A" stroke="#ADC69A" stroke-width="2"/><circle cx="1074" cy="108" r="5" fill="#ADC69A"/><text x="742" y="298" fill="#EEECE4" font-family="Arial, sans-serif" font-size="18">04 / Goal reached</text><text x="742" y="324" fill="#929E90" font-family="monospace" font-size="12">Navigate a maze. Learn from the obstacle.</text>
 </svg>
