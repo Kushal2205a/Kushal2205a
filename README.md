@@ -1,49 +1,39 @@
-
-<h1 align="center">Kushal Panchali</h1>
-
-<h3 align="center">
-  <strong>AI Engineer</strong> 
-</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kushalpanchali" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:kushalpanchali0522@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Kushal2205a&style=for-the-badge" alt="Profile views"/>
+<p>
+  <img src="./Images/profile-header.svg" alt="Kushal Panchali — AI engineer. Memory, tools, and the systems around agents." width="100%">
 </p>
 
+[Website](https://kushalpanchali.in) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/kushalpanchali) &nbsp; / &nbsp; [Email](mailto:kushalpanchali0522@gmail.com)
 
+I build tools for AI agents and connected knowledge. My projects explore how agents keep context, when their workflows get stuck, and how to put a human decision before a destructive database query.
 
-## About Me
+### Selected work
 
-Hi, I'm Kushal Panchali.  
-I build AI systems focused on multi-agent workflows, runtime reliability, AI infrastructure, and secure agentic systems.
+#### [mi∃a](https://github.com/Kushal2205a/miea-mem) · Memory agents can navigate
 
+Graph memory stored in readable JSON files. Agents follow named relationships and retrieve context through MCP, with the interpretation left to the agent.
 
+`Python` · `MCP` · `Graph traversal`
 
-## Tech Stack
+#### [Kliae](https://github.com/Kushal2205a/kliae) · A workspace for connected ideas
 
-| Languages | AI / ML | Backend & Infrastructure | Tools |
-|-----------|:--------------------:|-----------|-------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-2E86C1?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square) ![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-FF6F61?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+A native desktop app for building knowledge graphs. Open a node into its own nested graph; keep notes, images, and code alongside the connections.
 
+`TypeScript` · `React` · `Tauri`
 
-## Featured Projects
+#### [Weir](https://github.com/Kushal2205a/database-security-layer-for-ai-agents) · A checkpoint before the query
 
-- **[miea-mem](https://github.com/Kushal2205a/miea-mem)**  
-  Graph based memory system for AI agents that stores memories as noun-verb-noun triples in plain JSON files, using a waterslide traversal approach to retrieve relevant context without a vector database.
-  
-- **[Kliae](https://github.com/Kushal2205a/Kliae)**  
-  Open source Graph based knowledge workspace built with Tauri and React that enables visual knowledge management through interconnected nodes, layered graphs, rich content editing, and offline-first local storage.
+A PostgreSQL proxy that intercepts destructive SQL and holds it for review in a web dashboard. Inspect the impact, then allow or block the query.
 
-- **[Multi-Agent Workflow Failure Detection](https://github.com/Kushal2205a/multi-agent-workflow-failure-detection)**  
-  Runtime monitoring and loop detection system for autonomous LLM workflows using lightweight heuristics and helps agents recover through heuristic based prompt injection.
+`Python` · `PostgreSQL` · `FastAPI`
 
-- **[Database Security Layer for AI Agents](https://github.com/Kushal2205a/database-security-layer-for-ai-agents)**  
-  PostgreSQL wire-protocol interception layer that quarantines destructive SQL queries before execution using behavioral analysis and adaptive safeguards.
+#### [Workflow failure detection](https://github.com/Kushal2205a/multi-agent-workflow-failure-detection) · Catching agents going in circles
+
+A live benchmark for coder–reviewer workflows. Detects repetition and stalled progress with lightweight heuristics, then compares turns and tokens against a baseline.
+
+`Python` · `WebSockets` · `React`
 
 ---
 
+More work: [AI-native HRMS](https://github.com/Kushal2205a/ai-native-hrms-portal) · [MRI classification study](https://github.com/Kushal2205a/brain-tumor-detection-hybrid-dl-ml)
+
+<sub>Visakhapatnam, India · Open to work — <a href="mailto:kushalpanchali0522@gmail.com">get in touch</a>.</sub>

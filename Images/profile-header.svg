@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Kushal Panchali — AI engineer</title>
+  <desc id="desc">Memory, tools, and the systems around agents. A copper graph connects context, memory, tools, and review on a graphite background.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#333530"/>
+    </pattern>
+    <linearGradient id="fade" x1="690" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#191C1A"/>
+      <stop offset="1" stop-color="#222721"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="12" fill="#191C1A"/>
+  <rect x="690" width="510" height="360" rx="12" fill="url(#fade)"/>
+  <rect x="710" y="24" width="466" height="312" fill="url(#grid)"/>
+  <path d="M48 48H80" stroke="#D6A17D" stroke-width="3"/>
+  <text x="96" y="53" fill="#D6A17D" font-family="monospace" font-size="13" letter-spacing="3">KUSHAL2205A / AI ENGINEER</text>
+  <text x="46" y="152" fill="#EEECE4" font-family="Georgia, serif" font-size="65" letter-spacing="-2">Kushal Panchali</text>
+  <text x="49" y="203" fill="#C1C4BB" font-family="Arial, sans-serif" font-size="23">Memory, tools, and the</text>
+  <text x="49" y="235" fill="#C1C4BB" font-family="Arial, sans-serif" font-size="23">systems around agents.</text>
+  <text x="49" y="311" fill="#929E90" font-family="monospace" font-size="12" letter-spacing="2">VISAKHAPATNAM, INDIA</text>
+  <g stroke="#747F69" stroke-width="1.5">
+    <path d="M780 96L947 171L1100 90M947 171L1090 279M947 171L790 279"/>
+    <path d="M780 96L790 279M1100 90L1090 279" stroke-dasharray="4 7" opacity=".45"/>
+  </g>
+  <path d="M780 96L947 171L1090 279" stroke="#D6A17D" stroke-width="2"/>
+  <circle cx="947" cy="171" r="29" stroke="#D6A17D" stroke-opacity=".22"/>
+  <circle cx="947" cy="171" r="17" fill="#292B24" stroke="#D6A17D" stroke-width="2"/>
+  <circle cx="947" cy="171" r="5" fill="#D6A17D"/>
+  <g fill="#191C1A" stroke="#9CAA90" stroke-width="2">
+    <circle cx="780" cy="96" r="7"/>
+    <circle cx="1100" cy="90" r="7"/>
+    <circle cx="790" cy="279" r="7"/>
+    <circle cx="1090" cy="279" r="7"/>
+  </g>
+  <g fill="#BCC6B4" font-family="monospace" font-size="12" letter-spacing="1">
+    <text x="750" y="74">context</text>
+    <text x="1071" y="68">tools</text>
+    <text x="763" y="307">memory</text>
+    <text x="1062" y="307">review</text>
+    <text x="925" y="217" fill="#D6A17D">agent</text>
+  </g>
+</svg>
