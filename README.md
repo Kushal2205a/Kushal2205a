@@ -1,5 +1,5 @@
 <p>
-  <img src="./Images/profile-header.svg" alt="Kushal Panchali — AI engineer. Memory, tools, and the systems around agents." width="100%">
+  <img src="./Images/profile-header.svg" alt="Kushal Panchali, AI engineer. Memory, tools, and the systems around agents. Diagram: mi∃a follows a stored relationship from Postgres to WAL to retrieve context." width="100%">
 </p>
 
 [Website](https://kushalpanchali.in) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/kushalpanchali) &nbsp; / &nbsp; [Email](mailto:kushalpanchali0522@gmail.com)
@@ -28,7 +28,7 @@ A PostgreSQL proxy that intercepts destructive SQL and holds it for review in a 
 
 #### [Workflow failure detection](https://github.com/Kushal2205a/multi-agent-workflow-failure-detection) · Catching agents going in circles
 
-A live benchmark for coder–reviewer workflows. Detects repetition and stalled progress with lightweight heuristics, then compares turns and tokens against a baseline.
+A live benchmark for coder and reviewer workflows. Detects repetition and stalled progress with lightweight heuristics, then compares turns and tokens against a baseline.
 
 `Python` · `WebSockets` · `React`
 
@@ -36,4 +36,4 @@ A live benchmark for coder–reviewer workflows. Detects repetition and stalled 
 
 More work: [AI-native HRMS](https://github.com/Kushal2205a/ai-native-hrms-portal) · [MRI classification study](https://github.com/Kushal2205a/brain-tumor-detection-hybrid-dl-ml)
 
-<sub>Visakhapatnam, India · Open to work — <a href="mailto:kushalpanchali0522@gmail.com">get in touch</a>.</sub>
+<sub>Visakhapatnam, India · Open to work · <a href="mailto:kushalpanchali0522@gmail.com">get in touch</a>.</sub>
