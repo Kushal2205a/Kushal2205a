@@ -1,26 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Kushal Panchali, AI engineer</title>
-  <desc id="desc">An agent navigates a maze, encounters a wall, takes a detour, and reaches its goal.</desc>
-  <defs>
-    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M1 1L7 4L1 7" stroke="#D6A17D" stroke-width="1.2"/>
-    </marker>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#333530"/>
-    </pattern>
-    <linearGradient id="fade" x1="690" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#191C1A"/>
-      <stop offset="1" stop-color="#222721"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="360" rx="12" fill="#191C1A"/>
-  <rect x="690" width="510" height="360" rx="12" fill="url(#fade)"/>
-  <rect x="710" y="24" width="466" height="312" fill="url(#grid)"/>
+  <desc id="desc">Kushal Panchali builds infrastructure around AI agents from Visakhapatnam, India.</desc>
+  <rect width="1200" height="300" rx="12" fill="#191C1A"/>
   <path d="M48 48H80" stroke="#D6A17D" stroke-width="3"/>
   <text x="96" y="53" fill="#D6A17D" font-family="monospace" font-size="13" letter-spacing="3">KUSHAL2205A / AI ENGINEER</text>
-  <text x="46" y="152" fill="#EEECE4" font-family="Georgia, serif" font-size="65" letter-spacing="-2">Kushal Panchali</text>
-  <text x="49" y="203" fill="#C1C4BB" font-family="Arial, sans-serif" font-size="23">Memory, tools, and the</text>
-  <text x="49" y="235" fill="#C1C4BB" font-family="Arial, sans-serif" font-size="23">systems around agents.</text>
-  <text x="49" y="311" fill="#929E90" font-family="monospace" font-size="12" letter-spacing="2">VISAKHAPATNAM, INDIA</text>
-<text x="742" y="53" fill="#D6A17D" font-family="monospace" font-size="13" letter-spacing="2">PLAN / TEST / ADAPT</text><rect x="764" y="86" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="812" y="86" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="860" y="86" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="908" y="86" width="44" height="44" rx="4" fill="#4B5146" stroke="#6B7462"/><path d="M919 119l22 -22" stroke="#7A826F" opacity=".6"/><rect x="956" y="86" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1004" y="86" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1052" y="86" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="764" y="134" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="812" y="134" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="860" y="134" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="908" y="134" width="44" height="44" rx="4" fill="#4B5146" stroke="#6B7462"/><path d="M919 167l22 -22" stroke="#7A826F" opacity=".6"/><rect x="956" y="134" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1004" y="134" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1052" y="134" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="764" y="182" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="812" y="182" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="860" y="182" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="908" y="182" width="44" height="44" rx="4" fill="#4B5146" stroke="#6B7462"/><path d="M919 215l22 -22" stroke="#7A826F" opacity=".6"/><rect x="956" y="182" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1004" y="182" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1052" y="182" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="764" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="812" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="860" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="908" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="956" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1004" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><rect x="1052" y="230" width="44" height="44" rx="4" fill="#222721" stroke="#343C32"/><polyline points="786,204 834,204 882,204 882,252 930,252 978,252 978,204 1026,204 1074,204 1074,156 1074,108" fill="none" stroke="#D6A17D" stroke-width="3" stroke-linejoin="round"/><path d="M1066 98v22m0 -22h15l-4 6 4 6h-15" stroke="#ADC69A" stroke-width="2"/><circle cx="1074" cy="108" r="14" fill="#191C1A" stroke="#ADC69A" stroke-width="2"/><circle cx="1074" cy="108" r="5" fill="#ADC69A"/><text x="742" y="298" fill="#EEECE4" font-family="Arial, sans-serif" font-size="18">04 / Goal reached</text><text x="742" y="324" fill="#929E90" font-family="monospace" font-size="12">Navigate a maze. Learn from the obstacle.</text>
+  <text x="46" y="151" fill="#EEECE4" font-family="Georgia, serif" font-size="65" letter-spacing="-2">Kushal Panchali</text>
+  <text x="49" y="204" fill="#C1C4BB" font-family="Arial, sans-serif" font-size="23">Memory, tools, and the systems around agents.</text>
+  <text x="49" y="263" fill="#929E90" font-family="monospace" font-size="12" letter-spacing="2">VISAKHAPATNAM, INDIA</text>
+  <path d="M733 58V242" stroke="#343934"/>
+  <text x="778" y="102" fill="#929E90" font-family="monospace" font-size="12" letter-spacing="2">CURRENT DIRECTION</text>
+  <text x="778" y="147" fill="#EEECE4" font-family="Georgia, serif" font-size="30">Infrastructure for</text>
+  <text x="778" y="184" fill="#EEECE4" font-family="Georgia, serif" font-size="30">AI agents.</text>
+  <path d="M778 219H1126" stroke="#D6A17D" stroke-width="2"/>
 </svg>

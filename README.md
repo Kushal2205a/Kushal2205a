@@ -1,10 +1,14 @@
 <p>
-  <img src="./Images/profile-header.gif" alt="Kushal Panchali, AI engineer. An animated maze shows an agent heading toward a goal, finding a blocked path, taking a detour, and arriving." width="100%">
+  <img src="./Images/profile-header.svg" alt="Kushal Panchali, AI engineer based in Visakhapatnam, India." width="100%">
 </p>
 
-[Website](https://kushalpanchali.in) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/kushalpanchali) &nbsp; / &nbsp; [Email](mailto:kushalpanchali0522@gmail.com)
+<p>
+  <a href="https://kushalpanchali.in"><img src="./Images/icons/website.svg" width="28" height="28" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/kushalpanchali"><img src="./Images/icons/linkedin.svg" width="28" height="28" alt="LinkedIn"></a>
+  <a href="mailto:kushalpanchali0522@gmail.com"><img src="./Images/icons/mail.svg" width="28" height="28" alt="Email"></a>
+</p>
 
-I build tools for AI agents and connected knowledge. My projects explore how agents keep context, when their workflows get stuck, and how to put a human decision before a destructive database query.
+I build infrastructure around AI agents, with a focus on memory, runtime reliability, and safe access to real systems.
 
 ### Selected work
 
@@ -16,7 +20,7 @@ Graph memory stored in readable JSON files. Agents follow named relationships an
 
 #### [Kliae](https://github.com/Kushal2205a/kliae) · A workspace for connected ideas
 
-A native desktop app for building knowledge graphs. Open a node into its own nested graph; keep notes, images, and code alongside the connections.
+A native desktop app for building knowledge graphs. Open a node into its own nested graph and keep notes, images, and code alongside the connections.
 
 `TypeScript` · `React` · `Tauri`
 
